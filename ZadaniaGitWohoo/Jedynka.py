@@ -6,4 +6,5 @@ def is_critically_balanced():
 	else: 
 		return False
 
+#UZYCIE   
 print(is_critically_balanced())

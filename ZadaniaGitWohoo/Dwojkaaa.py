@@ -13,6 +13,7 @@ def reactor_efficiency(voltage, current, theoretical_max_power):
 	else:
 		print('black')
 	
+#UZYCIE   
 vol = float(input('VOLTAGE: '))
 cur = float(input('CURRENT: '))
 theor_max = float(input('WHATS THE THEORETICAL MAX POWER: '))
